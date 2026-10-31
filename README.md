@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&desc=CS%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Welcome+to+Alfredo%27s+GitHub+%F0%9F%91%8B;CS+Student+%7C+Full-Stack+Developer+%7C+AI%2FML" />
 </p>
 
 <p align="center">
