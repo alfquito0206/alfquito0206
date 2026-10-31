@@ -29,12 +29,11 @@ I'm a software developer with a growing focus on **AI/ML**. I like building comp
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,react,spring,firebase,mysql,mongodb,git,github,vscode&theme=dark&perline=13" height="48" />
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cpp,react,spring,firebase,mysql,mongodb&theme=dark&perline=12" height="48" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=60&section=footer" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" height="48" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
 </p>
