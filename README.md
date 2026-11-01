@@ -23,8 +23,8 @@ I'm **Alfredo**, a Computer Science student at **UANL**, currently on an academi
 I'm a software developer with a growing focus on **AI/ML**. I like building complete products, from the database all the way to the interface.
 
 - 🚀 Open to internships, collaborations and new learning opportunities
-- 🌱 Learning more about data structures, machine learning, backend development and mobile apps
-- ⚽ Outside of code: football and the gym
+- 🌱 Learning more about data structures, machine learning, backend development and mobile apps 
+- 🥤 Outside of code: Travels, guitar, gym and languages 🇪🇸 🇬🇧 🇩🇪
 
 ## 🛠️ Tech stack
 
